@@ -6,13 +6,13 @@ A GUI is provided to show the original text and translated text. And when you co
 # Enviroment
 ## Winodows
 1. If you don't have Chrome, download and install it.
-2. Enter in the URL bar [chrome://version/](chrome://version/) and view browser version
+2. Enter in the URL bar [chrome://version/](url) and view browser version
 3. Go https://npm.taobao.org/mirrors/chromedriver/ , find the corresponding version of windows driver and download it
 4. Put the extracted chrome driver into the folder where copytranslator is located.
 5. Run CopyTranslator.exe
 --------------------------
 1. 如果你没有Chrome，下载并安装它
-2. 在URL栏中输入 [chrome://version/](chrome://version/) 并查看浏览器版本
+2. 在URL栏中输入 [chrome://version/](url) 并查看浏览器版本
 3. 去https://npm.taobao.org/mirrors/chromedriver/ ,找到相应版本的windows驱动程序并下载它
 4. 将提取的chrome驱动程序放入copytranslator所在的文件夹
 5. 运行CopyTranslator.exe
