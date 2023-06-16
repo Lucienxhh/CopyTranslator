@@ -1,0 +1,8 @@
+将test.ui转为ui2.py
+pyside2-uic -o ui2.py test.ui
+
+打包指定exe图标打包
+pyinstaller -F -w -i ui.ico src//main.py
+Pyinstaller -F -w -i init.ico src//init.py  
+
+pyinstaller -F -w -i ui.ico src//main.py --add-data Application;chromedriver.exe

@@ -1,0 +1,11 @@
+<config>
+    <!-- 1 represents true, 0 represents fasle -->
+    <headless>1</headless>
+    <autocopy>1</autocopy>
+    
+    <!-- Refresh after every n requests -->
+    <refresh_rate>8</refresh_rate>
+
+    <!-- seconds for refresh -->
+    <refresh_time>0.5</refresh_time> 
+</config>
