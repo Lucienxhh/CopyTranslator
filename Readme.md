@@ -1,8 +1,6 @@
 # CopyTranslator
 A GUI is provided to show the original text and translated text. And when you copy a text, the GUI will display the text and its translated one. what's more, the GUI is on the top state. So there is no worry that any window will cover it, unless you minimize it. Additionally, you can resize it as you need.
 
-提供了一个GUI来显示原始文本和翻译文本。复制文本时，GUI将显示文本及其翻译文本。此外，GUI处于顶层状态。所以不必担心任何窗口会覆盖它，除非你将其最小化。此外，您可以根据需要调整其大小。
-
 # Enviroment
 ## Chrome
 
